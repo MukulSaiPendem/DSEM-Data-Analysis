@@ -1,7 +1,3 @@
-Based on the structure and content of the new zip file, here is a detailed README file for your project:
-
----
-
 # DSEM Data Analysis
 
 This repository contains the code and data for the DSEM Data Analysis assignment. The project includes a Jupyter notebook with the analysis.
@@ -71,7 +67,3 @@ pip install pandas numpy matplotlib seaborn
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README file further based on specific details or additional instructions related to your project.
